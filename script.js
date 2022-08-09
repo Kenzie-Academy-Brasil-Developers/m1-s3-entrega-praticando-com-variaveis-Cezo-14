@@ -1,6 +1,6 @@
 let nome = "Jhon";
 let sobrenome = "Doyle";
-let anoNascimento = "1990";
+let anoNascimento = "1991";
 let idade = 2022 - 1991;
 let cidade = "Curitiba";
 
